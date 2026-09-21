@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Gaurav 👋
 
-<!--
-**gauravfeb1996/gauravfeb1996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Engineer with 6+ years of experience building scalable, high-performance web applications.
 
-Here are some ideas to get you started:
+I primarily work with **React, TypeScript, Next.js and Redux**, and enjoy solving problems around frontend architecture, performance and user experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech I work with
+
+React • TypeScript • JavaScript • Next.js • Redux Toolkit • Zustand  
+Tailwind CSS • Material UI • Vite • Webpack • REST APIs
+
+### Currently
+
+- Building and improving production-grade frontend applications
+- Exploring frontend system design and performance engineering
+- Open to Senior Frontend / Product Engineering opportunities
+
+### Connect
+
+🌐 Portfolio: https://gaurav-verma-portfolio.vercel.app/
